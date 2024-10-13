@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Bienvenidos a mi perfil, soy ingeniero de sistemas.
-Apasionado a la programación, con aprendizaje y gustos en inteligencia artificial y desarrollo web 
+Bienvenidos a mi perfil.
+Soy ingeniero de sistemas con formación en desarrollo de software, desarrollo web, análisis de datos e inteligencia artificial. Durante mi carrera académica, he desarrollado habilidades técnicas en herramientas o lenguajes de programación, como Python, Java, SQL, JavaScript, React, Rstudio y he trabajado en diferentes proyectos académicos de desarrollo web usando diferentes metodologias.
